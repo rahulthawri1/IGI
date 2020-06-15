@@ -1,6 +1,6 @@
 # IGI
 Welcome to IGI
-eerte
-eeert
-
-eertert
+company list
+Hcl
+IBM
+TCS
